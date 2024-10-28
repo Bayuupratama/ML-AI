@@ -1,2 +1,2 @@
-# ML-AI
-Pembelajaran AI
+# not
+don't ask me 
